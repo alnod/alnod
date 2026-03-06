@@ -7,7 +7,7 @@
 ---
 
 
-- 🔭 Currently working on **Homie** https://github.com/alnod/homie — an androi development project  
+- 🔭 Currently working on [homie] (https://github.com/alnod/homie) — an android development project  
 - 🌱 Currently learning **Android development with Kotlin**
 - 🛠 I enjoy working across **mobile, backend, and data systems**
 - 🤝 Always open to learning, collaboration, and new ideas
