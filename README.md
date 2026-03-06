@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Alnod 
-  **Developer**
+
+💻 **Developer**
 🎓 **Data Science Student at University of Nairobi**   
 🌍 Based in **Nairobi, Kenya**
 
----
 - 🔭 Currently working on https://github.com/alnod/homie   
 - 🌱 Currently learning **Android development with Kotlin**
 ---
