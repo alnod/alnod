@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Alnod Munene
+# Hi there 👋 I'm Alnod 
 
 🎓 **Data Science Student at University of Nairobi**  
 💻 Passionate about building practical software and learning new technologies  
@@ -6,12 +6,8 @@
 
 ---
 
-## 👨‍💻 About Me
 
-I'm a data science student who enjoys building software that solves real problems.  
-I’m particularly interested in **mobile development, backend systems, and data-driven applications**.
-
-- 🔭 Currently working on **Homie** — a project focused on building useful digital tools  
+- 🔭 Currently working on **Homie** — an androi development project  
 - 🌱 Currently learning **Android development with Kotlin**
 - 🛠 I enjoy working across **mobile, backend, and data systems**
 - 🤝 Always open to learning, collaboration, and new ideas
