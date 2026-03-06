@@ -1,31 +1,91 @@
-<h1 align="center">Hi 👋, I'm Alnod Munene</h1>
-<h3 align="center">A passionate developer from Nairobi,Kenya</h3>
+# Hi there 👋 I'm Alnod Munene
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alnod" alt="alnod" /></a> </p>
+🎓 **Data Science Student at University of Nairobi**  
+💻 Passionate about building practical software and learning new technologies  
+🌍 Based in **Nairobi, Kenya**
 
-- 🔭 I’m currently working on [projectx](https://github.com/alnod/homie)
+---
 
-- 🌱 I’m currently learning **Android development with kotlin**
+## 👨‍💻 About Me
 
-- 📫 How to reach me: **alnodmunene@gmail.com**
+I'm a data science student who enjoys building software that solves real problems.  
+I’m particularly interested in **mobile development, backend systems, and data-driven applications**.
 
-- Communities: [Android Kenya](Android Kenya)
+- 🔭 Currently working on **Homie** — a project focused on building useful digital tools  
+- 🌱 Currently learning **Android development with Kotlin**
+- 🛠 I enjoy working across **mobile, backend, and data systems**
+- 🤝 Always open to learning, collaboration, and new ideas
 
-- ⚡ Fun fact: **I'm a genius**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/waweru-alnod-munene-2585843b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/waweru-alnod-munene-2585843b5" height="30" width="40" /></a>
-<a href="https://instagram.com/undergrounddud3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="undergrounddud3" height="30" width="40" /></a>
+## 🚀 Current Project
+
+🔗 **Homie**  
+https://github.com/alnod/homie
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Android Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black)
+
+### Backend
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Alnod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alnod&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=alnod)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alnod&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=alnod&theme=flat)
+
+---
+
+## 🎧 Currently Listening To
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default)
+
+---
+
+## 💻 Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alnod&show_icons=true&locale=en&layout=compact" alt="alnod" /></p>
+## 📫 Contact Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alnod&show_icons=true&locale=en" alt="alnod" /></p>
+📧 **Email:** alnodmunene@gmail.com
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alnod&" alt="alnod" /></p>
+---
 
-
+⭐️ From [alnod](https://github.com/alnod)
