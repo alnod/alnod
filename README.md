@@ -52,27 +52,15 @@ https://github.com/alnod/homie
 
 ---
 
-## 📊 GitHub Stats
 
-![Alnod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alnod&show_icons=true&theme=default)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alnod)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alnod&show_icons=true&locale=en&layout=compact" alt="alnod" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alnod&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alnod&show_icons=true&locale=en" alt="alnod" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alnod&" alt="alnod" /></p>
 
-## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=alnod&theme=flat)
-
----
-
-## 🎧 Currently Listening To
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default)
-
----
 
 ## 💻 Coding Vibes
 
